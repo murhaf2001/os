@@ -1,0 +1,1000 @@
+ 1019  ./a
+ 1020  1 n, ai ≤ 15 5
+ 1021  g++ a.cpp -o a
+ 1022  ./a
+ 1023  g++ a.cpp -o a
+ 1024  ./a
+ 1025  g++ a.cpp -o a
+ 1026  ./a
+ 1027  g++ a.cpp -o a
+ 1028  ./a
+ 1029  g++ a.cpp -o a
+ 1030  ./a
+ 1031  g++ a.cpp -o a
+ 1032  ./a
+ 1033  g++ a.cpp -o a
+ 1034  ./a
+ 1035  g++ a.cpp -o a
+ 1036  ./a
+ 1037  g++ a.cpp -o a
+ 1038  ./a
+ 1039  g++ a.cpp -o a
+ 1040  ./a
+ 1041  g++ a.cpp -o a
+ 1042  ./a
+ 1043  g++ a.cpp -o a
+ 1044  ./a
+ 1045  g++ a.cpp -o a
+ 1046  ./a
+ 1047  g++ a.cpp -o a
+ 1048  ./a
+ 1049  cd Downloads/
+ 1050  file Multidimensional.java 
+ 1051  javac Multidimensional.java 
+ 1052  ls | grep .jar
+ 1053  ls | grep Multidimensional.
+ 1054  java Multidimensional
+ 1055  javac Multidimensional.java 
+ 1056  java Multidimensional
+ 1057  javac Multidimensional.java 
+ 1058  java Multidimensional
+ 1059  javac Multidimensional.java 
+ 1060  java Multidimensional
+ 1061  javac Multidimensional.java 
+ 1062  java Multidimensional
+ 1063  javac Multidimensional.java 
+ 1064  java Multidimensional
+ 1065  javac Multidimensional.java 
+ 1066  java Multidimensional
+ 1067  javac Multidimensional.java 
+ 1068  java Multidimensional
+ 1069  javac Multidimensional.java 
+ 1070  java Multidimensional
+ 1071  javac Multidimensional.java 
+ 1072  java Multidimensional
+ 1073  javac Multidimensional.java 
+ 1074  java Multidimensional
+ 1075  vim spam.cpp
+ 1076  c++ spam.cpp -o spam
+ 1077  vim spam.cpp
+ 1078  c++ spam.cpp -o spam
+ 1079  ./spam
+ 1080  c++ spam.cpp -o spam
+ 1081  vim spam.cpp
+ 1082  c++ spam.cpp -o spam
+ 1083  ./spam
+ 1084  vim spam.cpp
+ 1085  c++ spam.cpp -o spam & ./spam 
+ 1086  c++ spam.cpp -o spam
+ 1087  ./spam
+ 1088  vim spam.cpp
+ 1089  c++ spam.cpp -o spam
+ 1090  ./spam
+ 1091  c++ spam.cpp -o spam
+ 1092  vim spam.cpp
+ 1093  c++ spam.cpp -o spam
+ 1094  ./spam
+ 1095  vim spam.cpp
+ 1096  c++ spam.cpp -o spam
+ 1097  ./spam
+ 1098  cd Downloads/
+ 1099  file chall
+ 1100  apt install desmume
+ 1101  desmume
+ 1102  python py.py
+ 1103  vim py.py
+ 1104  vim noob.py
+ 1105  ipython
+ 1106  exit
+ 1107  cd Donw
+ 1108  cd Downloads/
+ 1109  chmod +x Impossible\ Password.zip 
+ 1110  ./Impossible\ Password.zip 
+ 1111  chmod +x impossible_password.bin 
+ 1112  ./impossible_password.bin 
+ 1113  grep VMware-Player-16.1.2-17966106.x86_64.bundle 
+ 1114  ls | grep VMware-Player-16.1.2-17966106.x86_64.bundle 
+ 1115  chmod a+x VMware-Player-16.1.2-17966106.x86_64.bundle 
+ 1116  sudo ./VMware-Player-6.0.3-1895310.x86_64.bundle
+ 1117  sudo ./VMware-Player-16.1.2-17966106.x86_64.bundle 
+ 1118  ipython
+ 1119  cd Downloads/
+ 1120  unzip Impossible\ Password.zip 
+ 1121  1
+ 1122  apt install fcrackzip
+ 1123  xxd Impossible\ Password.zip
+ 1124  unzip Impossible\ Password.zip 
+ 1125  r2 impossible_password.bin 
+ 1126  ida 
+ 1127  unzip Baby\ RE.zip 
+ 1128  chmod +x bay
+ 1129  chmod +x baby
+ 1130  string baby
+ 1131  strings baby | grep HTB
+ 1132  strings baby
+ 1133  ./baby 
+ 1134  unzip Exatlon.zip 
+ 1135  file exatlon_v1 
+ 1136  chmod +x exatlon_v1 
+ 1137  ./exatlon_v1 
+ 1138  strings exatlon_v1 
+ 1139  strings exatlon_v1 | grep HTB
+ 1140  r2 exatlon_v1 
+ 1141  ida
+ 1142  strings exatlon_v1
+ 1143  upx -d exatlon_v1 -o exa_clear
+ 1144  ida
+ 1145  cd Downloads/
+ 1146  python chall.py 
+ 1147  python2.7 chall.py 
+ 1148  cd Downloads/
+ 1149  cd web_petpet_rcbee/
+ 1150  ls
+ 1151  docker -v
+ 1152  apt intsall docker
+ 1153  apt install docker
+ 1154  docker -v
+ 1155  apt install dockerDevOps
+ 1156  How to Install Docker on Linux Mint
+ 1157  2 years agoby Sidratul Muntaha
+ 1158  In the professional world, there are a number of a really, really powerful tools that are powering the back-end of today’s internet-driven world. Most of us are not even familiar with those tools. Of course, those are the tools for professionals. Docker is such a tool.
+ 1159  In the case of Linux, there are numerous ways that an app can be enjoyed. That can bring a lot of confusion and issues. For example, Debian, Ubuntu and other Debian/Ubuntu-based distros like Linux Mint use DEB packages as installable apps. For CentOS and RHEL, it’s RPM.
+ 1160  When a dev is working on an app, he has to keep that in mind. The fact that different Linux ecosystems work differently puts a hefty amount of stress on the development process. Why?
+ 1161  Let’s make things clear with an example. You generally can’t run a package that’s built for Debian/Ubuntu ecosystem on any other systems like CentOS and RHEL. The opposite is also true. The problem can be avoided using various techniques. But at the enterprise level, there has to be something that makes this type of action really easy.
+ 1162  This is where Docker comes into play. There are also other ways of enjoying universal Linux apps like snap. Learn how to use snap packages on Ubuntu and Ubuntu-based distros.
+ 1163  What Docker is
+ 1164  So, what is Docker? Docker is a special tool that’s designed especially for easier creation, deployment, and running Linux apps using “containers”. In Docker’s terms, “containers” are a pre-bundled environment where Linux apps can run in an expected and repeatable fashion. The containers come up with all the essential resources (libraries and other dependencies). This allows the same container to run on every supported Linux platform.
+ 1165  As you can guess, this makes things A LOT easier for the developer. Being free from the concern of portability, devs can focus fully on the app itself and make it way better.
+ 1166  In a sense, Docker works like a virtual machine. However, it’s significantly different at the core level. In the case of virtualization, the “guest” environment is created on top of the “host”. However, in the case of Docker, containers are allowed to access hardware resource directly via the host’s kernel, especially on the Linux systems. In addition, only those packages that are not available on the “host” system is packed inside Docker. Both of these features together offer a huge boost in both performance and the size of each containers (smaller and lighter).
+ 1167  So, why use Docker? It’s open-source with a HUGE community behind it. It has already found its place in the professional workspace. It’s also possible to extend the features of Docker to meet anyone’s needs and add additional features that don’t arrive out-of-the-box.
+ 1168  However, for developing a Docker container, the security has to be ensured. Docker offers quite good security measurements for apps running in such a shared environment. However, containers, by themselves, aren’t an alternative to taking full-fledged security measures.
+ 1169  Who is Docker for?
+ 1170  Docker is a tool that’s meant to benefit the full set of modern IT and software development professionals including the newish field of DevOps.
+ 1171  For software developers, Docker is a big relief. There’s no more necessary for worrying about cross-platform compatibility. With thousands of already-available apps, developers can get a head start in their Docker container development.
+ 1172  DevOps
+ 1173  How to Install Docker on Linux Mint
+ 1174  2 years agoby Sidratul Muntaha
+ 1175  In the professional world, there are a number of a really, really powerful tools that are powering the back-end of today’s internet-driven world. Most of us are not even familiar with those tools. Of course, those are the tools for professionals. Docker is such a tool.
+ 1176  In the case of Linux, there are numerous ways that an app can be enjoyed. That can bring a lot of confusion and issues. For example, Debian, Ubuntu and other Debian/Ubuntu-based distros like Linux Mint use DEB packages as installable apps. For CentOS and RHEL, it’s RPM.
+ 1177  When a dev is working on an app, he has to keep that in mind. The fact that different Linux ecosystems work differently puts a hefty amount of stress on the development process. Why?
+ 1178  Let’s make things clear with an example. You generally can’t run a package that’s built for Debian/Ubuntu ecosystem on any other systems like CentOS and RHEL. The opposite is also true. The problem can be avoided using various techniques. But at the enterprise level, there has to be something that makes this type of action really easy.
+ 1179  This is where Docker comes into play. There are also other ways of enjoying universal Linux apps like snap. Learn how to use snap packages on Ubuntu and Ubuntu-based distros.
+ 1180  What Docker is
+ 1181  sudo apt update
+ 1182  sudo apt-get install docker-ce docker-ce-cli containerd.io
+ 1183  sudo apt install apt-transport-https ca-certificates curl software-properties-common
+ 1184  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+ 1185  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
+ 1186  sudo apt update
+ 1187  apt-cache policy docker-ce
+ 1188  sudo apt install docker-ce
+ 1189  sudo su
+ 1190  exit
+ 1191  cat key1.pem 
+ 1192  cat key12pem 
+ 1193  cat key2pem 
+ 1194  cat key2.pem 
+ 1195  cat key1.pem 
+ 1196  cat key2.pem 
+ 1197  cat message1
+ 1198  cat message2
+ 1199  file key1.pem 
+ 1200  openssl rsa -in recovered1.key -text -inform PEM -pubin
+ 1201  openssl rsa -in key1.pem -text -inform PEM -pubin
+ 1202  openssl rsa -in key2.pem -text -inform PEM -pubin
+ 1203  lynx --dump http://www.factordb.com/index.php?query=30820122300d06092a864886f70d01010105000382010f003082010a0282010100c6acb8df486e6671d4a5564803e1c3214a8e274de0ac0043ec28c8589f377c7e8d308bc3e302850384344ba7988885620a418e6ad955578284fc04f289f126b38a01816251cef9a14fd4c249d96b69087fa91b2e1adbdc80cb96ff0ccb6129d8f6737da850c451f2ed3f6cb61c36891dc924d0ab28f26adf0ed357ce848d02ffe00912714ccf6372c1f41080e86747a0303eb5cdf6ce912f1144fd4f55743c796875a14fdff8f8b662150c56be58b09239771dc44d969079c4ad8fd993bc630b7855d2e02e8be16824dcd5ab3813231c1731110a8bd028d7a1dfab892e75294557bafc71aeaf5e48db0267a6db63d350f995068ee1cad6d32df11a49bd24ba970203053cb7 | head | tail -n 2
+ 1204  sudo apt install lynx
+ 1205  lynx --dump http://www.factordb.com/index.php?query=30820122300d06092a864886f70d01010105000382010f003082010a0282010100c6acb8df486e6671d4a5564803e1c3214a8e274de0ac0043ec28c8589f377c7e8d308bc3e302850384344ba7988885620a418e6ad955578284fc04f289f126b38a01816251cef9a14fd4c249d96b69087fa91b2e1adbdc80cb96ff0ccb6129d8f6737da850c451f2ed3f6cb61c36891dc924d0ab28f26adf0ed357ce848d02ffe00912714ccf6372c1f41080e86747a0303eb5cdf6ce912f1144fd4f55743c796875a14fdff8f8b662150c56be58b09239771dc44d969079c4ad8fd993bc630b7855d2e02e8be16824dcd5ab3813231c1731110a8bd028d7a1dfab892e75294557bafc71aeaf5e48db0267a6db63d350f995068ee1cad6d32df11a49bd24ba970203053cb7 | head | tail -n 2
+ 1206  lynx --dump http://www.factordb.com/index.php?query=30820122300d06092a864886f70d01010105000382010f003082010a0282010100c6acb8df486e6671d4a5564803e1c3214a8e274de0ac0043ec28c8589f377c7e8d308bc3e302850384344ba7988885620a418e6ad955578284fc04f289f126b38a01816251cef9a14fd4c249d96b69087fa91b2e1adbdc80cb96ff0ccb6129d8f6737da850c451f2ed3f6cb61c36891dc924d0ab28f26adf0ed357ce848d02ffe00912714ccf6372c1f41080e86747a0303eb5cdf6ce912f1144fd4f55743c796875a14fdff8f8b662150c56be58b09239771dc44d969079c4ad8fd993bc630b7855d2e02e8be16824dcd5ab3813231c1731110a8bd028d7a1dfab892e75294557bafc71aeaf5e48db0267a6db63d350f995068ee1cad6d32df11a49bd24ba970203053cb7 
+ 1207  ipython
+ 1208  lynx --dump http://www.factordb.com/index.php?query=199582142956008510570996053172578267554407915993617735369142167915397142162101703394094943751331240664794183257610526428594609387697911840991393308973712911590036866728810957708652909250453724888830112595640043821446642497125988685831550257513244019974132522095836892751766578140387902074855176043571986527844347072225365747592493271894382539652061957812625363039892811944921459787660621201624058549837922624651069180294942200884652247839424037083870396476455533207367038751454371931239087971562909280406789372623825888168995037842733835573056710342755083832115011830870441118094290082500021366840352048737592265846267132259349847603761904372398653354093724628160021737502087936518992421878901893815146462391 | head | tail -n 2
+ 1209  ipython
+ 1210  cd ..
+ 1211  git clone
+ 1212  git clone https://github.com/ius/rsatool.git
+ 1213  ls
+ 1214  ls | grep rsa
+ 1215  rsatool/
+ 1216  cd rsatool/
+ 1217  ls
+ 1218  python setup.py 
+ 1219  python rsatool.py -p 84362585 -q 236576609116480381167784336116038013242965369059776600455216216899229844796839384893308975479273472552784132038640739171
+ 1220  985554245045848039141277272352089390800479699298937980277219942051863068075533854961461936972944395311174958289663065987
+ 1221  739996373954321719866498747936382672650900754255995327838249606182461510718555347429897380778332459276410344654342473459
+ 1222  104996381920873405891557994816806595660668675129681089288924636674995973923557965936064987098814546203399726358256393366
+ 1223  717294269694987308983486920620822401172473549782575692572214396595769030884760246514294068207035256553699130984863539153
+ 1224  ;s
+ 1225  ls
+ 1226  python setup.py 
+ 1227  python setup.py --help
+ 1228  python setup.py install
+ 1229  sudo python setup.py install
+ 1230  pip install setup
+ 1231  pip install setuptools
+ 1232  sudo python setup.py install
+ 1233  pip install setuptools
+ 1234  pip3 install setuptools
+ 1235  sudo python setup.py install
+ 1236  python rsatool.py 
+ 1237  pip install pyasn1
+ 1238  python rsatool.py 
+ 1239  python rsatool.py -p 84362585 -q 2365766091164803811677843361160380132429653690597766004552162168992298447968393848933089754792734725527841320386407391719855542450458480391412772723520893908004796992989379802772199420518630680755338549614619369729443953111749582896630659877399963739543217198664987479363826726509007542559953278382496061824615107185553474298973807783324592764103446543424734591049963819208734058915579948168065956606686751296810892889246366749959739235579659360649870988145462033997263582563933667172942696949873089834869206208224011724735497825756925722143965957690308847602465142940682070352565536991309848635391531076692259558502944548929479195116672922865019526773553994678565405949830578763310683543882657149673 -o 1
+ 1240  python rsatool.py --help
+ 1241  ipython
+ 1242  exit
+ 1243  urandrom(2)
+ 1244  urandrom(5)
+ 1245  ipython
+ 1246  cd Downloads/
+ 1247  cd TwoForOne/
+ 1248  cat key2.pem 
+ 1249  cat key21pem 
+ 1250  cat key1.pem 
+ 1251  exit
+ 1252  ipython
+ 1253  a
+ 1254  cd Downloads/
+ 1255  cd Tow
+ 1256  cd TwoForOne/
+ 1257  ls
+ 1258  cat key1.pem 
+ 1259  quit
+ 1260  exit
+ 1261  source /home/thecarrot/cms-venv/bin/activate
+ 1262  /home/thecarrot/cms-venv/bin/python3.6 /home/thecarrot/.vscode/extensions/ms-python.python-2021.2.633441544/pythonFiles/pyvsc-run-isolated.py pip install -U pylint
+ 1263  cd Downloads/
+ 1264  python ende.py 
+ 1265  cat ende.py 
+ 1266  python ende.py -h
+ 1267  python ende.py -d pw.txt
+ 1268  python ende.py -d flag.txt.en
+ 1269  cat warm 
+ 1270  string warm
+ 1271  strings warm
+ 1272  file cat.jpg 
+ 1273  exiftool ca
+ 1274  exiftool cat.jpg 
+ 1275  binwalk cat.jpg 
+ 1276  strings cat.jpg 
+ 1277  strings cat.jpg | grep pico
+ 1278  clear
+ 1279  exiftool cat.jpg 
+ 1280  strings cat.jpg | grep cat.jpg 
+ 1281  strings cat.jpg | grep Pico
+ 1282  strings cat.jpg > a
+ 1283  vim a
+ 1284  nc mercury.picoctf.net 43239
+ 1285  ipython
+ 1286  mkdr api
+ 1287  mkdir api
+ 1288  rm api
+ 1289  rm -rf api
+ 1290  ls
+ 1291  clear
+ 1292  vim api
+ 1293  exit
+ 1294  ipython
+ 1295  cd Resources/
+ 1296  cd CTF
+ 1297  ls
+ 1298  vim rsa.py
+ 1299  python rsa.py 
+ 1300  vim rsa.py
+ 1301  python --version
+ 1302  apt update
+ 1303  nc mercury.picoctf.net 53437
+ 1304  cat in
+ 1305  vim in
+ 1306  nc mercury.picoctf.net 53437 < in
+ 1307  ipython
+ 1308  head in
+ 1309  nc mercury.picoctf.net 53437 < in
+ 1310  cd Downloads/
+ 1311  cd rsatool/
+ 1312  python rsatool.py -p 1899107986527483535344517113948531328331 -q 674357869540600933870145899564746495319033 -e 65537
+ 1313  python rsatool.py -p 1899107986527483535344517113948531328331 -q 674357869540600933870145899564746495319033 -e 65537 62324783949134119159408816513334912534343517300880137691662780895409992760262021
+ 1314  python rsatool.py -h
+ 1315  python rsatool.py -p 1899107986527483535344517113948531328331 -q 674357869540600933870145899564746495319033 -e 65537 -o key
+ 1316  openssl rsautl -decrypt -raw -inkey key -in enc.txt
+ 1317  vim enc.txt
+ 1318  openssl rsautl -decrypt -raw -inkey key -in enc.txt
+ 1319  cat key 
+ 1320  vim enc.txt
+ 1321  cat key 
+ 1322  openssl rsautl -decrypt -raw -inkey key -in enc.txt
+ 1323  apt install python3.8
+ 1324  cd Resources/
+ 1325  cd C
+ 1326  cd CT
+ 1327  cd CTF
+ 1328  python3.8 rsa.py 
+ 1329  cd Resources/
+ 1330  ls
+ 1331  cd CTF
+ 1332  mkdir web
+ 1333  cd web/
+ 1334  vim request.py
+ 1335  python request.py 
+ 1336  vim request.py
+ 1337  python request.py 
+ 1338  vim request.py
+ 1339  python request.py 
+ 1340  vim request.py
+ 1341  python request.py 
+ 1342  vim request.py
+ 1343  python request.py 
+ 1344  vim request.py
+ 1345  python request.py 
+ 1346  touch out
+ 1347  python request.py 
+ 1348  vim request.py
+ 1349  python request.py 
+ 1350  vim request.py
+ 1351  python request.py 
+ 1352  cat out
+ 1353  python request.py 
+ 1354  vim request.py
+ 1355  python request.py 
+ 1356  vim request.py
+ 1357  python request.py 
+ 1358  vim request.py
+ 1359  python request.py 
+ 1360  vim request.py
+ 1361  python request.py 
+ 1362  vim request.py
+ 1363  python request.py 
+ 1364  python request.py | grep pico
+ 1365  cd Downloads/
+ 1366  chmod +x burpsuite_community_linux_v2021_6_2.sh 
+ 1367  ./burpsuite_community_linux_v2021_6_2.sh 
+ 1368  cd DOw
+ 1369  cd Downloads/
+ 1370  cd bin/
+ 1371  ./notapwn 
+ 1372  file Flag_in_Dump.7z 
+ 1373  exiftool Flag_in_Dump.7z 
+ 1374  exiftool Flag_in_Dump.
+ 1375  exiftool Flag_in_Dump.dd
+ 1376  binwalk Flag_in_Dump.
+ 1377  binwalk Flag_in_Dump.dd
+ 1378  cat Flag_in_Dump.dd
+ 1379  clear
+ 1380  mv Flag_in_Dump.dd flag.dd
+ 1381  xdd flag.dd | head
+ 1382  xxd flag.dd | head
+ 1383  vm flag.ntfs
+ 1384  vm flag.dd flag.ntfs
+ 1385  mv flag.dd flag.ntfs
+ 1386  file flag.ntfs 
+ 1387  sudo mount flag.ntfs /mnt
+ 1388  sudo mount flag.ntfs ~/Downloads/sysctf/
+ 1389  sudo apt-get install kpartx
+ 1390  sudo kpartx -av live-cd.ntfs
+ 1391  sudo kpartx -av flag.ntfs
+ 1392  sudo kpartx flag.ntfs
+ 1393  sudo mount flag.ntfs /mnt
+ 1394  apt install autopsy
+ 1395  autopsy --help
+ 1396  autopsy -i flag.ntfs
+ 1397  autopsy -i flag.ntfs /mnt
+ 1398  autopsy
+ 1399  sudo autopsy
+ 1400  apt install mmls
+ 1401  mmmls
+ 1402  mmls
+ 1403  mmls -i flag.ntfs 
+ 1404  fdisk flag.ntfs 
+ 1405  fdisk -l flag.ntfs 
+ 1406  fdisk --help
+ 1407  strings flag.ntfs | grep sys
+ 1408  strings flag.ntfs | grep flag
+ 1409  strings flag.ntfs | grep fl
+ 1410  strings flag.ntfs | grep ctf
+ 1411  nc 192.168.161.2:10004
+ 1412  nc 192.168.161.2 10004
+ 1413  ipython
+ 1414  ida
+ 1415  gdb notapwn 
+ 1416  ida
+ 1417  file S3cURe_5ystEm
+ 1418  chmod +x S3cURe_5ystEm
+ 1419  strings S3cURe_5ystEm
+ 1420  ./S3cURe_5ystEm 
+ 1421  ida
+ 1422  cd bin/
+ 1423  chmod +x notapwn 
+ 1424  file notapwn 
+ 1425  ida 
+ 1426  r2 notapwn
+ 1427  ./notapwn 
+ 1428  r2 notapwn
+ 1429  ipython
+ 1430  gdb notapwn
+ 1431  ipython
+ 1432  exit
+ 1433  cd Downloads/
+ 1434  wget https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool
+ 1435  chmod +x apktool 
+ 1436  ./apktool 
+ 1437  ipython
+ 1438  exit
+ 1439  xxd o.txt 
+ 1440  vim o.txt 
+ 1441  cd Downloads/
+ 1442  cd sysctf/
+ 1443  cd o\ small/
+ 1444  ipython
+ 1445  file o\ is\ smaller\ than\ o.txt 
+ 1446  xxd o\ is\ smaller\ than\ o.txt 
+ 1447  vim o\ is\ smaller\ than\ o.txt 
+ 1448  ipython
+ 1449  vim o\ is\ smaller\ than\ o.txt 
+ 1450  ipython
+ 1451  vim o.txt 
+ 1452  ipython
+ 1453  apt install jadx
+ 1454  cd Downloads/
+ 1455  mkdir jadx
+ 1456  cd jadx/
+ 1457  git clone https://github.com/skylot/jadx.git
+ 1458  xhmod +x randy 
+ 1459  chmod +x randy 
+ 1460  ./randy 
+ 1461  ida randy 
+ 1462  nc 192.168.161.3 10006
+ 1463  cd Downloads/
+ 1464  cd jadx/
+ 1465  ls
+ 1466  cd jadx/
+ 1467  ls
+ 1468  ./jadx
+ 1469  ./jadx-gui/
+ 1470  cd jadx-gui
+ 1471  ls
+ 1472  cd ..
+ 1473  ./gradlew dist
+ 1474  sudo ./gradlew dist
+ 1475  cd ..
+ 1476  rm -rd jadx/
+ 1477  rm -rf jadx/
+ 1478  ipython
+ 1479  exit
+ 1480  ipython
+ 1481  exit
+ 1482  ipython
+ 1483  cd Downloads/
+ 1484  cd sysctf/
+ 1485  cd l
+ 1486  cd fragile\ loop/
+ 1487  python3.8 decrypt.py 
+ 1488  python3.6 decrypt.py 
+ 1489  apt install python3.7
+ 1490  python2.7 decrypt.py 
+ 1491  vim sk.py
+ 1492  python sk.py 
+ 1493  vim sk.py
+ 1494  python sk.py 
+ 1495  vim sk.py
+ 1496  python sk.py 
+ 1497  vim sk.py
+ 1498  python sk.py 
+ 1499  vim sk.py
+ 1500  python sk.py 
+ 1501  vim sk.py
+ 1502  python sk.py 
+ 1503  vim sk.py
+ 1504  python sk.py 
+ 1505  vim sk.py
+ 1506  python sk.py 
+ 1507  vim sk.py
+ 1508  python sk.py 
+ 1509  vim sk.py
+ 1510  python sk.py 
+ 1511  vim sk.py
+ 1512  python sk.py 
+ 1513  vim sk.py
+ 1514  python sk.py 
+ 1515  vim sk.py
+ 1516  python sk.py 
+ 1517  vim sk.py
+ 1518  python sk.py 
+ 1519  vim sk.py
+ 1520  python sk.py 
+ 1521  vim sk.py
+ 1522  python sk.py 
+ 1523  cd Downloads/
+ 1524  ls | grep rockyou.txt
+ 1525  aircrack-ng wifi2-01.cap 
+ 1526  aircrack-ng -h wifi2-01.cap 
+ 1527  aircrack-ng -w wifi2-01.cap 
+ 1528  aircrack-ng  wifi2-01.cap -o a
+ 1529  aircrack-ng  --help
+ 1530  aircrack-ng  -a wifi2-01.cap 
+ 1531  aircrack-ng -a 1  wifi2-01.cap 
+ 1532  aircrack-ng -a 2  wifi2-01.cap 
+ 1533  aircrack-ng  --help
+ 1534  aircrack-ng -e wifi2-01.cap 
+ 1535  aircrack-ng wifi2-01.cap 
+ 1536  aircrack-ng -w wifi2-01.cap 
+ 1537  aircrack-ng wifi2-01.cap -a AE:37:43:E6:36:5C
+ 1538  aircrack-ng wifi2-01.cap -a wpa
+ 1539  aircrack-ng wifi2-01.cap -a wpa AE:37:43:E6:36:5C
+ 1540  aircrack-ng -a AE:37:43:E6:36:5C wifi2-01.cap
+ 1541  aircrack-ng -w wifi2-01.cap
+ 1542  aircrack-ng -e wifi2-01.cap
+ 1543  wireshark 
+ 1544  aircrack-ng wifi2-01.cap
+ 1545  aircrack-ng wifi2-01.cap -w wordlist 
+ 1546  vim py.py
+ 1547  python py.py 
+ 1548  vim rockyou.txt
+ 1549  python py.py 
+ 1550  cat out.txt 
+ 1551  python py.py 
+ 1552  vim py.py
+ 1553  python py.py 
+ 1554  cat out.txt 
+ 1555  vim rockyou.txt
+ 1556  vim py.py
+ 1557  python py.py 
+ 1558  cat out.txt 
+ 1559  vim py.py
+ 1560  python py.py 
+ 1561  cat out.txt 
+ 1562  python py.py 
+ 1563  cat out.txt 
+ 1564  vim py.py
+ 1565  python py.py 
+ 1566  out
+ 1567  cat out.txt 
+ 1568  xxd rockyou.txt | head
+ 1569  python
+ 1570  vim py.py
+ 1571  python py.py 
+ 1572  vim py.py
+ 1573  python3.8 py.py 
+ 1574  vim py.py
+ 1575  python3.8 py.py 
+ 1576  vim py.py
+ 1577  python3.8 py.py 
+ 1578  vim py.py
+ 1579  python3.8 py.py 
+ 1580  vim py.py
+ 1581  python3.8 py.py 
+ 1582  vim py.py
+ 1583  python3.8 py.py 
+ 1584  vim py.py
+ 1585  python3.8 py.py 
+ 1586  vim py.py
+ 1587  python3.8 py.py 
+ 1588  vim py.py
+ 1589  python3.8 py.py 
+ 1590  vim py.py
+ 1591  python3.8 py.py 
+ 1592  vim py.py
+ 1593  python3.8 py.py 
+ 1594  vim py.py
+ 1595  python3.8 py.py 
+ 1596  vim py.py
+ 1597  python3.8 py.py 
+ 1598  python py.py 
+ 1599  python3.8 py.py 
+ 1600  python3.8 --version
+ 1601  python3.8 py.py 
+ 1602  vim py.py 
+ 1603  python3.8 py.py 
+ 1604  vim py.py 
+ 1605  python3.8 py.py 
+ 1606  cat out.txt | head
+ 1607  aircrack-ng wifi2-01.cap -w out.txt 
+ 1608  exit
+ 1609  cd yout/
+ 1610  ls
+ 1611  youtube-dl --help
+ 1612  youtube-dl --help | grep quality
+ 1613  youtube-dl --help | grep resu
+ 1614  youtube-dl --help | grep Qua
+ 1615  youtube-dl --help | grep qua
+ 1616  youtube-dl -F https://www.youtube.com/watch?v=KH_-vhsfxjg&list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z
+ 1617  youtube-dl -F https://youtu.be/KH_-vhsfxjg
+ 1618  apt remove youtube-dl 
+ 1619  sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
+ 1620  sudo chmod a+rx /usr/local/bin/youtube-dl
+ 1621  youtube-dl 
+ 1622  youtube-dl --help
+ 1623  sudo youtube-dl --help
+ 1624  chmod a+rx /usr/local/bin/youtube-dl
+ 1625  sudo chmod 777 /usr/local/bin/youtube-dl
+ 1626  youtube-dl 
+ 1627  youtube-dl --help
+ 1628  chmod 777 /usr/local/bin/youtube-dl
+ 1629  nemo /usr/local/bin/youtube-dl
+ 1630  chown --help /usr/local/bin/youtube-dl
+ 1631  chown thecarrot /usr/local/bin/youtube-dl
+ 1632  sudo chown thecarrot /usr/local/bin/youtube-dl
+ 1633  youtube-dl 
+ 1634  youtube-dl --help
+ 1635  sudo youtube-dl --help
+ 1636  sudo chown thecarrot /usr/local/bin/youtube-dl
+ 1637  nemo /usr/local/bin/youtube-dl
+ 1638  exit
+ 1639  cd yout/
+ 1640  ls
+ 1641  exit
+ 1642  cd yout/
+ 1643  ls
+ 1644  youtube-dl 
+ 1645  youtube-dl -F https://www.youtube.com/watch?v=KH_-vhsfxjg&list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z&index=1
+ 1646  ls
+ 1647  youtube-dl -F list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z
+ 1648  youtube-dl -F 'http://www.youtube.com/watch?v=P9pzm5b6FFY'
+ 1649  youtube-dl -F 'https://youtu.be/KH_-vhsfxjg'
+ 1650  youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' 'https://youtu.be/KH_-vhsfxjg'
+ 1651  sudo youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' 'https://youtu.be/KH_-vhsfxjg'
+ 1652  exit
+ 1653  apt remove telegrame
+ 1654  apt remove telegram-desktop 
+ 1655  apt update
+ 1656  apt install telegram
+ 1657  apt install telegram-desktop
+ 1658  apt update python
+ 1659  apt install python
+ 1660  apt install python3.6
+ 1661  apt install youtube-dl
+ 1662  youtube-dl https://youtu.be/KH_-vhsfxjg
+ 1663  mkdir yout
+ 1664  cd yout/
+ 1665  youtube-dl https://youtu.be/KH_-vhsfxjg -f 'bestvideo[height<=480]'
+ 1666  youtube-dl https://www.youtube.com/watch?v=KH_-vhsfxjg&list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z -f 'bestvideo[height<=480]'
+ 1667  youtube-dl -f 'bestvideo[height<=480]' https://www.youtube.com/watch?v=KH_-vhsfxjg&list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z 
+ 1668  exit
+ 1669  vim Command\ and\ Conquer\ -\ Generals\ Zero\ Hour.lnk 
+ 1670  wine64 C:\Program Files (x86)\R.G. Mechanics\Command and Conquer - Generals\Command and Conquer Generals Zero Hour\generals.exe
+ 1671  cd ..
+ 1672  ls
+ 1673  cd 'Program Files'
+ 1674  cd ..
+ 1675  cd 'Program Files (x86)'/
+ 1676  cd R.G.\ Mechanics/
+ 1677  cd Command\ and\ Conquer\ -\ Generals/
+ 1678  cd Command\ and\ Conquer\ Generals\ Zero\ Hour/
+ 1679  wine64 generals.exe
+ 1680  exit
+ 1681  apt install wine
+ 1682  apt install wine-stable
+ 1683  cd Downloads/
+ 1684  wget https://www.google.com/chrome/thank-you.html?brand=CHWL&statcb=0&installdataindex=empty&defaultbrowser=0#
+ 1685  wget 'https://www.google.com/chrome/thank-you.html?brand=CHWL&statcb=0&installdataindex=empty&defaultbrowser=0#'
+ 1686  ping www.google.com
+ 1687  rxit
+ 1688  exit
+ 1689  ping 8.8.8.8
+ 1690  exit
+ 1691  code
+ 1692  cd project01/
+ 1693  ls
+ 1694  source mysite/bin/activate
+ 1695  code something/
+ 1696  pip install pylance
+ 1697  cd project01/
+ 1698  cd something/
+ 1699  python manage.py 
+ 1700  python manage.py check
+ 1701  pip install django
+ 1702  source /home/thecarrot/project01/mysite/bin/activate
+ 1703  cd ..
+ 1704  ls
+ 1705  cd something/
+ 1706  ls
+ 1707  python3 manage.py 
+ 1708  python3 manage.py --help
+ 1709  python3 manage.py check
+ 1710  source /home/thecarrot/project01/mysite/bin/activate
+ 1711  /home/thecarrot/project01/mysite/bin/python3.6 /home/thecarrot/project01/something/manage.py
+ 1712  python manage.py check
+ 1713  python manage.py runserver
+ 1714  python manage.py makemagrations
+ 1715  python manage.py makemigrations
+ 1716  python manage.py migrate
+ 1717  python manage.py addsuperuser
+ 1718  python manage.py createsuperuser
+ 1719  python manage.py runserver
+ 1720  python manage.py check
+ 1721  python manage.py makemigrations
+ 1722  python manage.py check
+ 1723  python manage.py runserver
+ 1724  python manage.py check
+ 1725  python manage.py runserver
+ 1726  cd project01/
+ 1727  django-admin help
+ 1728  django-admin startproject
+ 1729  django-admin startproject a
+ 1730  ls
+ 1731  cd a
+ 1732  ls
+ 1733  cd a
+ 1734  ls
+ 1735  cat urls.py 
+ 1736  cd ..
+ 1737  rm a
+ 1738  rm -rf a
+ 1739  ls
+ 1740  ls
+ 1741  python manage.py runeserver
+ 1742  python manage.py runserver
+ 1743  python manage.py check
+ 1744  ls
+ 1745  cd ..
+ 1746  ls
+ 1747  source mysite/bin/activate
+ 1748  cd ..
+ 1749  cd project01/
+ 1750  cd something/
+ 1751  python manage.py check
+ 1752  python manage.py runserver
+ 1753  cd Downloads/
+ 1754  file StarCraft-Setup.exe 
+ 1755  wine StarCraft-Setup.exe 
+ 1756  wine
+ 1757  wineconsole 
+ 1758  wine 
+ 1759  wine StarCraft-Setup.exe 
+ 1760  sudo su psqk
+ 1761  sudo su psql
+ 1762  sudo su - psql
+ 1763  sudo psql
+ 1764  psql
+ 1765  postgres
+ 1766  psql
+ 1767  sudo su-psql
+ 1768  sudo su
+ 1769  ls
+ 1770  cd ..
+ 1771  virtualenv venv
+ 1772  ls
+ 1773  course venv/bin/activate
+ 1774  source venv/bin/activate
+ 1775  python --version
+ 1776  pip install django
+ 1777  cd ProMed/
+ 1778  python manage.py 
+ 1779  python manage.py startapp
+ 1780  python manage.py startapp main
+ 1781  ls
+ 1782  mkdir ProMid
+ 1783  cd ProMid/
+ 1784  django startproject ProMed
+ 1785  django-admin sta
+ 1786  django-admin startproject ProMed
+ 1787  ls
+ 1788  cd ProMed/
+ 1789  ls
+ 1790  code .
+ 1791  apt install docker
+ 1792  apt install docker-compose
+ 1793  apt update
+ 1794  apt install docker-compose
+ 1795  ls
+ 1796  docker-compose build
+ 1797  sudo docker-compose build
+ 1798  docker --help
+ 1799  docker-compose up
+ 1800  sudo docker-compose up
+ 1801  sudo docker-compose up -d
+ 1802  sudo docker-compose down
+ 1803  shutdown 0
+ 1804  cd Project\ 0/
+ 1805  ls
+ 1806  cd ..
+ 1807  cd project01/
+ 1808  ls
+ 1809  cd something/
+ 1810  ls
+ 1811  cd something/
+ 1812  cat urls.py 
+ 1813  exit
+ 1814  pip install django-phonenumber-field[phonenumbers]
+ 1815  exit
+ 1816  python manage.py check
+ 1817  python manage.py runserver
+ 1818  cd ..
+ 1819  source venv/bin/activate
+ 1820  cd ProMed/
+ 1821  python manage.py check
+ 1822  python manage.py runserver
+ 1823  python manage.py check
+ 1824  pip install django-phonenumber-field[phonenumbers]
+ 1825  python manage.py check
+ 1826  python manage.py makemigrations
+ 1827  python manage.py migrate
+ 1828  python manage.py 
+ 1829  python manage.py createsuperuser
+ 1830  python manage.py check
+ 1831  python manage.py runserver
+ 1832  pip install Pillo
+ 1833  python manage.py runserver
+ 1834  cd ProMid/
+ 1835  cd ProMed/
+ 1836  ls
+ 1837  code .
+ 1838  cd ProMed/
+ 1839  ls
+ 1840  cp urls.py ../main/
+ 1841  ls
+ 1842  cd ..
+ 1843  ls
+ 1844  cd ..
+ 1845  ls
+ 1846  source venv/bin/activate
+ 1847  cd ProMed/
+ 1848  ls
+ 1849  cd ..
+ 1850  pip install django-phonenumber-field[phonenumbers]
+ 1851  exit
+ 1852  from rest
+ 1853  pip install djangorestframework
+ 1854  cd ..
+ 1855  ls
+ 1856  source venv/bin/activate
+ 1857  pip install djangorestframework
+ 1858  cat /etc/issue
+ 1859  exit
+ 1860  apt install postman
+ 1861  ls
+ 1862  python manage.py check
+ 1863  cd ..
+ 1864  source venv/bin/activate
+ 1865  cd ProMed/
+ 1866  python manage.py check
+ 1867  python manage.py migrate
+ 1868  python manage.py check
+ 1869  python manage.py migrate
+ 1870  python manage.py makemigrations
+ 1871  python manage.py makemigrat
+ 1872  python manage.py makemigrations
+ 1873  python manage.py createsuperuser
+ 1874  python manage.py makemigrations
+ 1875  python manage.py migrate
+ 1876  python manage.py check
+ 1877  python manage.py addsuperuser
+ 1878  python manage.py createsuperuser
+ 1879  python manage.py makemigrations
+ 1880  python manage.py migrate
+ 1881  python manage.py reset_dp
+ 1882  python manage.py 
+ 1883  python manage.py --version
+ 1884  python manage.py makemigrations
+ 1885  python manage.py makemigrations main
+ 1886  python manage.py migrate
+ 1887  python manage.py makemigrations 
+ 1888  python manage.py migrate
+ 1889  python manage.py createsuperuser
+ 1890  ls
+ 1891  python manage.py makemigrations
+ 1892  python manage.py migrate
+ 1893  python manage.py makemigrations
+ 1894  python manage.py migrate
+ 1895  python manage.py makemigrations
+ 1896  python manage.py migrate
+ 1897  python manage.py makemigrations
+ 1898  python manage.py migrate
+ 1899  python manage.py makemigrations
+ 1900  python manage.py migrate
+ 1901  pip install djangorestframework-simplejwt
+ 1902  python manage.py check
+ 1903  cd ProMid/
+ 1904  ls
+ 1905  source venv/bin/activate
+ 1906  cd ProMed/
+ 1907  l
+ 1908  cd main
+ 1909  ls
+ 1910  cd ..
+ 1911  code .
+ 1912  class PercentageField(fields.FloatField):
+ 1913  python manage.py check
+ 1914  ls
+ 1915  python3 manage.py 
+ 1916  python3 manage.py flush
+ 1917  python3 manage.py check
+ 1918  python3 manage.py migrate
+ 1919  python3 manage.py makemigrations
+ 1920  python3 manage.py migrate
+ 1921  python3 manage.py check
+ 1922  python3 manage.py runserver
+ 1923  python3 manage.py runes
+ 1924  python3 manage.py runserver
+ 1925  python3 manage.py makemigrations
+ 1926  python3 manage.py makemigrations main
+ 1927  python3 manage.py migrate
+ 1928  python3 manage.py runserver
+ 1929  python3 manage.py check
+ 1930  python3 manage.py runserver
+ 1931  exit
+ 1932  cd ~
+ 1933  ls
+ 1934  cd Downloads/
+ 1935  ls
+ 1936  cd ..
+ 1937  cd ProMed
+ 1938  ls
+ 1939  cd ..
+ 1940  cd ProMid/
+ 1941  source venv/bin/activate
+ 1942  cd ProMed/
+ 1943  python manage.py runserver
+ 1944  dactivate
+ 1945  deactivate
+ 1946  cd ..
+ 1947  cd ~
+ 1948  history > ex2.txt
+ 1949  vagt ex2.txt 
+ 1950  cat ex2.txt 
+ 1951  mkdir week1
+ 1952  cd week1
+ 1953  man grep
+ 1954  grep gcc /usr/bin | sort > ex1.txt
+ 1955  grep gcc /usr/bin/ | sort > ex1.txt
+ 1956  man grep
+ 1957  cd /usr/bin/
+ 1958  grep gcc | sort > ~/week1/ex1.txt
+ 1959  cat ~/week1/ex1.txt 
+ 1960  grep 'gcc' > ~/week1/ex1.txt
+ 1961  grep 'gcc'
+ 1962  grep gcc
+ 1963  ls
+ 1964  grep gcc
+ 1965  grep gcc | head
+ 1966  cd ..
+ 1967  grep gcc
+ 1968  man grep
+ 1969  sudo grep gcc
+ 1970  ls
+ 1971  cd ~
+ 1972  grep gcc
+ 1973  exit
+ 1974  grep gcc
+ 1975  grep ahamad
+ 1976  grep ahamad a
+ 1977  grep ahamad 
+ 1978  apt install grep
+ 1979  grep ahamad 
+ 1980  ls
+ 1981  grep ,orad
+ 1982  grep morad
+ 1983  grep morad ~
+ 1984  apt install grep
+ 1985  man grep
+ 1986  grep --help
+ 1987  grep morad 
+ 1988  grep morad .
+ 1989  grep morad -d .
+ 1990  grep morad -d read .
+ 1991  cd week
+ 1992  cd week1
+ 1993  ls
+ 1994  vim ex3.sh
+ 1995  chmod +x ex3.sh 
+ 1996  ./ex3.sh 
+ 1997  vim ex3.sh
+ 1998  cd week1/
+ 1999  vim ex3.sh 
+ 2000  ./ex3.sh 
+ 2001  vim ex3.sh 
+ 2002  ./ex3.sh 
+ 2003  vim ex3.sh 
+ 2004  ./ex3.sh 
+ 2005  vim ex3.sh 
+ 2006  vim main.c
+ 2007  gcc main.c -o ex4
+ 2008  ./ex4
+ 2009  ls
+ 2010  cat ex1.txt 
+ 2011  vim ex1.txt 
+ 2012  rm ex1.txt 
+ 2013  cd /usr/bin/
+ 2014  ls | grep gcc | sort -r > ~/week1/ex1.txt
+ 2015  cd ~/week1/
+ 2016  ls
+ 2017  cat ex1.txt 
+ 2018  history > ex2.txt
