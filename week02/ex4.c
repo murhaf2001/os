@@ -1,17 +1,17 @@
 #include <stdio.h>
 
-void swp(int &x,int &y)
+void swp(int *a,int *b)
 {
-	int temp = x;
-	x = y;
-	y = temp;
+        int tmp = *a;
+        *a = *b;
+        *b = tmp;
 }
 
 int main(){
-	int x,y;
-	scanf("plz enter two integers: %d%d\n",&x,&y);
-	swp(x,y);
-	printf("%d %d\n",x,y);
+        int x,y;
+        scanf("%d %d",&x,&y);
+        swp(&x,&y);
+        printf("%d %d\n",x,y);
 
-	return 0;
+        return 0;
 }
