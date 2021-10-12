@@ -1,0 +1,13 @@
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND                                                                                                                                         
+ 1735 root      20   0 1033544  85468  47456 S   4.0  1.1   0:57.92 Xorg                                                                                                                                            
+ 3683 thecarr+  20   0 4275128 262556  71620 S   4.0  3.3   3:25.13 cinnamon                                                                                                                                        
+ 5803 thecarr+  20   0  593084  40052  26084 S   3.0  0.5   0:10.13 gnome-terminal-                                                                                                                                 
+ 6271 thecarr+  20   0 1652288 302484 124432 S   2.0  3.8   1:09.76 Telegram                                                                                                                                        
+ 3917 thecarr+  20   0  247420  31788  15720 S   1.0  0.4   0:00.64 applet.py                                                                                                                                       
+ 3999 thecarr+  20   0 16.468g 101228  81992 S   1.0  1.3   0:15.47 chrome                                                                                                                                          
+ 4165 thecarr+  20   0 20.535g 105104  77188 S   1.0  1.3   0:09.38 chrome                                                                                                                                          
+ 6539 thecarr+  20   0  625724  37940  27244 S   1.0  0.5   0:05.46 file-roller                                                                                                                                     
+ 9235 thecarr+  20   0   44336   4220   3488 R   1.0  0.1   0:00.27 top   
+ 9440 thecarr+  20   0   92272    536    384 S   0.0  0.0   0:00.00 ex2
+
+Note that I'm using a linux shell inside windows

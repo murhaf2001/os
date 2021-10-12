@@ -1,0 +1,3 @@
+Physical address is the real address in the Physical memory(RAM). On the other hand, the virtual address is where
+in the address space of the process.
+
