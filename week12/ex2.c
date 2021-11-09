@@ -13,7 +13,7 @@ int main(){
         if(ie.type == 1)
             printf("PRESSED %x (%d)\n",ie.code,ie.code);
         if(ie.type == 0)
-            printf("RELEASED %x (%d)\n",ie.type,ie.code);
+            printf("RELEASED %x (%d)\n",ie.code,ie.code);
     }
     return 0;
 }
